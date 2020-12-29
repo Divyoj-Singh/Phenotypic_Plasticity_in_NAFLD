@@ -1,0 +1,1 @@
+bifurcation_parameter	HH	HL	LH	LL	
